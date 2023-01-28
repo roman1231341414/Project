@@ -1,0 +1,15 @@
+D:\Project\dz_5\zd_36\bin\Debug\net6.0\zd_36.exe
+D:\Project\dz_5\zd_36\bin\Debug\net6.0\zd_36.deps.json
+D:\Project\dz_5\zd_36\bin\Debug\net6.0\zd_36.runtimeconfig.json
+D:\Project\dz_5\zd_36\bin\Debug\net6.0\zd_36.dll
+D:\Project\dz_5\zd_36\bin\Debug\net6.0\zd_36.pdb
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.csproj.AssemblyReference.cache
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.AssemblyInfoInputs.cache
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.AssemblyInfo.cs
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.csproj.CoreCompileInputs.cache
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.dll
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\refint\zd_36.dll
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.pdb
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\zd_36.genruntimeconfig.cache
+D:\Project\dz_5\zd_36\obj\Debug\net6.0\ref\zd_36.dll
